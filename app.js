@@ -1,6 +1,6 @@
 var leagueApp = angular.module('leagueApp', [
 	'ngRoute',
-	'IndexCtrl'
+	'leagueAppControllers'
 ]);
 
 leagueApp.config(['$routeProvider',
