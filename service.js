@@ -2,8 +2,8 @@ var sql = require('mssql');
 
 var config = {
     user: 'sa',
-    password: 'sasasa',
-    server: 'XJ9',
+    password: 'PASSWORD',
+    server: 'SERVERNAME',
     database: 'LeagueApplication',
     
     options: {
